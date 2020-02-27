@@ -6,7 +6,7 @@ Gauss?
 
 The documentation will answer that question.
 
-> Section 2.1 Sensor characteristics - Page 10 - LSM303DLHC Data Sheet
+> Section 2.1 Sensor characteristics - Page 9 - LSM303DLHC Data Sheet
 
 The table in that page shows a *magnetic gain setting* that has different values according to the
 values of the GN bits. By default, those GN bits are set to `001`. That means that magnetic gain of
